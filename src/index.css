@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.header-style{
+  background-color: purple;
+  text-align: center; 
+  color: white;
+}
